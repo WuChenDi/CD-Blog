@@ -1,8 +1,8 @@
 {
-    "name": "vblog",
+    "name": "WuChenDi",
     "version": "1.0.0",
-    "description": "A Vue.js project",
-    "author": "辣子鸡 <30425217+GitHub-Laziji@users.noreply.github.com>",
+    "description": "this is my blog! https://wuchendi.github.io/",
+    "author": "WuChenDi <996194720@qq.com>",
     "private": true,
     "scripts": {
         "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --host 0.0.0.0",
