@@ -5,7 +5,7 @@
 				<div>
 					© 2018 WuChenDi&emsp;&emsp;
 					<a href="https://github.com/WuChenDi" target="_blank">Profile</a>&emsp;&emsp;
-					<a href="https://github.com/WuChenDi/CD-Blog" target="_blank">VBlog</a>
+					<a href="https://github.com/WuChenDi/CD-Blog" target="_blank">CD-Blog</a>
 				</div>
 			</el-col>
 			<el-col :span="4">
