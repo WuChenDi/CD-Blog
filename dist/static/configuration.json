@@ -1,5 +1,5 @@
 {
-    "githubUsername": "wuchendi",
+    "githubUsername": "WuChenDi",
     "blogTitle": "WuChenDi",
     "blogDescribe": "Welcome to Wu Chendi's personal blog!",
     "htmlTitle": "Di-got的博客",
@@ -10,6 +10,6 @@
     "audioUrl": "/static/music/dongxiaojie.mp3",
     "mini": false,
     "webSites":[
-        {"name":"v2ex" , "url":"https://github.com/"}
+        {"name":"v2ex" , "url":"https://github.com/WuChenDi"}
     ]
 }
