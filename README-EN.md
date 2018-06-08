@@ -8,7 +8,7 @@
 
 ## Demo
 
-[https://wuchendi.github.io][1]
+[https://WuChenDi.github.io][1]
 
 
 ## Plugin
@@ -25,7 +25,7 @@
 
 ## Use Setup
 
-Clone ```https://github.com/wuchendi/wuchendi.github.io ```
+Clone ```https://github.com/WuChenDi/WuChenDi.github.io ```
 
 
 ## Develop
@@ -50,5 +50,5 @@ Author *WuChenDi*
 
 
 
-  [1]: https://wuchendi.github.io
+  [1]: https://WuChenDi.github.io
   [2]: https://github.com/WuChenDi/CD-Blog
