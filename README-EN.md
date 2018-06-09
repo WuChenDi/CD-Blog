@@ -18,10 +18,10 @@
 
 ## Example Pictures
 
-![博客截图](screenshots/201805152146.png)
-![博客截图](screenshots/201805152147.png)
-![博客截图](screenshots/201805111431.png)
-![博客截图](screenshots/201805111438.png)
+![博客截图](screenshots/CD-01.jpg)
+![博客截图](screenshots/CD-02.jpg)
+![博客截图](screenshots/CD-03.jpg)
+![博客截图](screenshots/CD-04.jpg)
 
 ## Use Setup
 
