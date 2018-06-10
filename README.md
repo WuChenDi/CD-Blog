@@ -76,7 +76,7 @@
 ## 更新记录
 
 #### 2018.6-8 更新
-- 推出个人博客Blog
+- 推出个人博客Blog.
 
 ## License
 Code licensed under the [Mozilla](LICENSE).
